@@ -13,3 +13,6 @@ indexmap = "2.2.6"
 ndarray = "0.15.6"
 pyo3 = { version = "0.21.1", features = ["extension-module"] }
 numpy = "0.21"
+
+[build-dependencies]
+maturin = "1.5.1"
